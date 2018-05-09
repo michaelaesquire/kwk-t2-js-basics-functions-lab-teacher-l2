@@ -2,10 +2,10 @@
 function distanceFromHqInBlocks(inputValue) {
   let returnValue;
   if (inputValue == 43) {
-    returnValue = 1;    
+    returnValue = 1;
   }
-  else if (inputValue == 80) {
-    returnValue ==
+  else if (inputValue == 50) {
+    returnValue == 8;
   }
   return returnValue;
 }
