@@ -19,7 +19,7 @@ function distanceFromHqInFeet (someValue) {
 function distanceTravelledInFeet(start,end) {
   let returnValue;
   let change = end - start;
-  returnValue = 1;
+  returnValue = change*264;
   return returnValue;
 
 }
