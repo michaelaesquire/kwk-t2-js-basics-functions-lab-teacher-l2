@@ -34,7 +34,7 @@ function calculatesFarePrice(start,end){
     returnValue = costDistance*0.02;
   }
   else if (distance > 2000) {
-    
+    returnValue = 25;
   }
   return returnValue;
 }
