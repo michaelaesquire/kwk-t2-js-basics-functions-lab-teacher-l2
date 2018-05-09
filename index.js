@@ -15,3 +15,8 @@ function distanceFromHqInFeet (someValue) {
   returnValue = distanceFromHqInBlocks(someValue)*264;
   return returnValue;
 }
+
+function distanceTravelledInFeet(someValue) {
+
+  
+}
