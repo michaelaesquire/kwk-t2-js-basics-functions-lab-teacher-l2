@@ -17,6 +17,8 @@ function distanceFromHqInFeet (someValue) {
 }
 
 function distanceTravelledInFeet(someValue) {
+  let returnValue;
+  returnValue = 1;
+  return returnValue;
 
-  
 }
