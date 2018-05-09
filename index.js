@@ -21,5 +21,9 @@ function distanceTravelledInFeet(start,end) {
   let change = end - start;
   returnValue = Math.abs(change*264);
   return returnValue;
-
 }
+
+function calculatesFarePrice(start,end){
+  
+}
+
