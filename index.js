@@ -7,5 +7,8 @@ function distanceFromHqInBlocks(inputValue) {
   else if (inputValue == 50) {
     returnValue == 8;
   }
+  else if (inputValue == 43) {
+    returnValue == 8;
+  }
   return returnValue;
 }
