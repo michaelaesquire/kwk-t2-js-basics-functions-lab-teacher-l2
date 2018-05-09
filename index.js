@@ -9,3 +9,8 @@ function distanceFromHqInBlocks(inputValue) {
   }
   return returnValue;
 }
+
+function distanceFromHqInFeet (someValue) {
+  distanceFromHqInBlocks(someValue);
+
+}
