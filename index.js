@@ -12,6 +12,6 @@ function distanceFromHqInBlocks(inputValue) {
 
 function distanceFromHqInFeet (someValue) {
   let returnValue;
-  distanceFromHqInBlocks(someValue);
-
+  returnValue = distanceFromHqInBlocks(someValue);
+  return returnValue;
 }
